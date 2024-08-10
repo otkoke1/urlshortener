@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\School\\AMD201\\Test\\Skile141-URLShortener-432df39\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBFC515-8B11-4DF5-B987-CCBB802A44FE}|urlfrontend\\urlfrontend.esproj|d:\\school\\amd201\\test\\skile141-urlshortener-432df39\\urlfrontend\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6BBFC515-8B11-4DF5-B987-CCBB802A44FE}|urlfrontend\\urlfrontend.esproj|solutionrelative:urlfrontend\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBFC515-8B11-4DF5-B987-CCBB802A44FE}|urlfrontend\\urlfrontend.esproj|d:\\school\\amd201\\test\\skile141-urlshortener-432df39\\urlfrontend\\src\\frontend.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6BBFC515-8B11-4DF5-B987-CCBB802A44FE}|urlfrontend\\urlfrontend.esproj|solutionrelative:urlfrontend\\src\\frontend.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBFC515-8B11-4DF5-B987-CCBB802A44FE}|urlfrontend\\urlfrontend.esproj|d:\\school\\amd201\\test\\skile141-urlshortener-432df39\\urlfrontend\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6BBFC515-8B11-4DF5-B987-CCBB802A44FE}|urlfrontend\\urlfrontend.esproj|solutionrelative:urlfrontend\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBFC515-8B11-4DF5-B987-CCBB802A44FE}|urlfrontend\\urlfrontend.esproj|d:\\school\\amd201\\test\\skile141-urlshortener-432df39\\urlfrontend\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6BBFC515-8B11-4DF5-B987-CCBB802A44FE}|urlfrontend\\urlfrontend.esproj|solutionrelative:urlfrontend\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B262C562-5521-4E68-B52B-6C0461BBA44B}|URLShortener\\URLShortener.csproj|d:\\school\\amd201\\test\\skile141-urlshortener-432df39\\urlshortener\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B262C562-5521-4E68-B52B-6C0461BBA44B}|URLShortener\\URLShortener.csproj|solutionrelative:urlshortener\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.css",
+              "DocumentMoniker": "D:\\School\\AMD201\\Test\\Skile141-URLShortener-432df39\\urlfrontend\\src\\index.css",
+              "RelativeDocumentMoniker": "urlfrontend\\src\\index.css",
+              "ToolTip": "D:\\School\\AMD201\\Test\\Skile141-URLShortener-432df39\\urlfrontend\\src\\index.css",
+              "RelativeToolTip": "urlfrontend\\src\\index.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-10T10:44:28.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Frontend.jsx",
+              "DocumentMoniker": "D:\\School\\AMD201\\Test\\Skile141-URLShortener-432df39\\urlfrontend\\src\\Frontend.jsx",
+              "RelativeDocumentMoniker": "urlfrontend\\src\\Frontend.jsx",
+              "ToolTip": "D:\\School\\AMD201\\Test\\Skile141-URLShortener-432df39\\urlfrontend\\src\\Frontend.jsx",
+              "RelativeToolTip": "urlfrontend\\src\\Frontend.jsx",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAwDUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-08-10T06:15:05.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "stylesheet.css",
+              "DocumentMoniker": "D:\\School\\AMD201\\Test\\Skile141-URLShortener-432df39\\urlfrontend\\stylesheet.css",
+              "RelativeDocumentMoniker": "urlfrontend\\stylesheet.css",
+              "ToolTip": "D:\\School\\AMD201\\Test\\Skile141-URLShortener-432df39\\urlfrontend\\stylesheet.css",
+              "RelativeToolTip": "urlfrontend\\stylesheet.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-10T09:57:35.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.jsx",
+              "DocumentMoniker": "D:\\School\\AMD201\\Test\\Skile141-URLShortener-432df39\\urlfrontend\\src\\main.jsx",
+              "RelativeDocumentMoniker": "urlfrontend\\src\\main.jsx",
+              "ToolTip": "D:\\School\\AMD201\\Test\\Skile141-URLShortener-432df39\\urlfrontend\\src\\main.jsx",
+              "RelativeToolTip": "urlfrontend\\src\\main.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-08-10T07:50:25.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\School\\AMD201\\Test\\Skile141-URLShortener-432df39\\URLShortener\\Program.cs",
+              "RelativeDocumentMoniker": "URLShortener\\Program.cs",
+              "ToolTip": "D:\\School\\AMD201\\Test\\Skile141-URLShortener-432df39\\URLShortener\\Program.cs",
+              "RelativeToolTip": "URLShortener\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T15:40:21.637Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
