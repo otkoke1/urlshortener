@@ -8269,11 +8269,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\School\\AMD201\\Test\\Skile141-URLShortener-432df39\\URLShortener\\URLShortener.csproj",
+      "projectUniqueName": "D:\\School\\AMD201\\Test\\UrlShortener\\urlshortener\\URLShortener\\URLShortener.csproj",
       "projectName": "URLShortener",
-      "projectPath": "D:\\School\\AMD201\\Test\\Skile141-URLShortener-432df39\\URLShortener\\URLShortener.csproj",
+      "projectPath": "D:\\School\\AMD201\\Test\\UrlShortener\\urlshortener\\URLShortener\\URLShortener.csproj",
       "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-      "outputPath": "D:\\School\\AMD201\\Test\\Skile141-URLShortener-432df39\\URLShortener\\obj\\",
+      "outputPath": "D:\\School\\AMD201\\Test\\UrlShortener\\urlshortener\\URLShortener\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",

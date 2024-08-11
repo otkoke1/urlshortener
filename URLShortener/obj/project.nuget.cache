@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1HBAWged5SK6cZDUvvNfyFwXrS5sQCQyeVWGRSbrWXitv7ngtQxcBvBU2r1X7iwxsNXs6ZuVS0Ff2STckZthNQ==",
+  "dgSpecHash": "gMGOFA+MmutFv9Ufxz7wJIyppa60mQDsjosxPrWnl0ILIehrLil+Kwhhr85FUBWzAuLlz64KMXNuev3M0fgcaQ==",
   "success": true,
-  "projectFilePath": "D:\\School\\AMD201\\Test\\Skile141-URLShortener-432df39\\URLShortener\\URLShortener.csproj",
+  "projectFilePath": "D:\\School\\AMD201\\Test\\UrlShortener\\urlshortener\\URLShortener\\URLShortener.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Acer\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
