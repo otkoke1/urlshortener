@@ -1,0 +1,18 @@
+[ 
+    {
+      "todo": "COMP1842",
+      "desc": "Code & test web"
+    },
+    {
+      "todo": "COMP1844",
+      "desc": "Research maps"
+    },
+    {
+      "todo": "COMP1619A",
+      "desc": "Code java cli app"
+    },
+    {
+      "todo": "AMD",
+      "desc": "Dev frontend"
+    }
+]
